@@ -84,3 +84,9 @@ p {
     font-size: 12px;
 }
 
+#heart:hover, #dm:hover, #comment:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+
